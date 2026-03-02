@@ -1,0 +1,19 @@
+metric,year,value,unit,source
+"Renewable Share",2010,17.2,%,Table A.1
+"Renewable Share",2018,39.2,%,Table A.1
+"Renewable Share",2023,59.1,%,Table A.1
+"Renewable Share",2025,63.8,%,Table A.1
+"Renewable Share",2030,82.7,%,Table A.1
+"Protocol Multiplier (ΦMCP)",2010,0.00,factor,Table A.1
+"Protocol Multiplier (ΦMCP)",2018,0.00,factor,Table A.1
+"Protocol Multiplier (ΦMCP)",2023,0.15,factor,Table A.1
+"Protocol Multiplier (ΦMCP)",2025,0.45,factor,Table A.1
+"Protocol Multiplier (ΦMCP)",2030,1.25,factor,Table A.1
+"Effective Stability Index",2010,95.0,index,Table A.1
+"Effective Stability Index",2018,82.0,index,Table A.1
+"Effective Stability Index",2023,65.0,index,Table A.1
+"Effective Stability Index",2025,58.0,index,Table A.1
+"Effective Stability Index",2030,92.0,index,Table A.1
+"HVDC Physical Capacity",NA,16,GW,Table A.3
+"HVDC Protocol Capacity",NA,21.9,GW,Table A.3
+"HVDC Total Cost",NA,45.9,bn Euro,Table A.3
