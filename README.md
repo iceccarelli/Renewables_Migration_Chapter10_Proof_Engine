@@ -1,4 +1,3 @@
-```markdown
 # The Renewables Migration — Sovereign Protocol Nation Proof Engine
 
 **Chapter 10 Verification System: The Machine in the Mirror — From Trillion-Euro Experiment to Sovereign Global Command**
@@ -134,8 +133,3 @@ Renewables_Migration_Chapter10_Proof_Engine/
 ## Technical Integration Philosophy
 
 The codebase mirrors the same engineering standards the book demands of the grid: **modular, sovereign, and verifiable**. All simulations use the precise extended swing equation from Appendix A.9, with ΦMCP damping and the full SCP/SEP frameworks. No external API calls — full data sovereignty by design. Ready for live MCP connectors (Anthropic/Linux Foundation standard) to replace synthetic data with real grid assets.
-
----
-
-**Part of The Renewables Migration Technical Ecosystem**  
-From the €1.45 trillion receipt to sovereign global command — audited, mirrored, and ready for integration.
