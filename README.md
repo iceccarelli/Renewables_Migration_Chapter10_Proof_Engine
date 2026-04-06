@@ -7,8 +7,6 @@
 
 This repository is the **official computational companion** to Chapter 10 of Vincenzo Grimaldi’s *The Renewables Migration*.
 
-The 03:17 narrative thread reaches its penultimate resolution here. Every preceding chapter’s evidence — the €700 billion U-Turn, the €580 billion crowdfunded empire, the €320 billion copper arteries, solar subsidies, Dunkelflaute voids, hydrogen mirage, de-industrialization pulse, and human receipt — is now reconciled through MCP-enabled sovereign feedback loops. This production-ready codebase delivers verifiable final-tally simulations, sovereign-horizon calculations, and the full SCP/SEP frameworks for developers and system integrators to embed into live energy architectures.
-
 ---
 
 ## Quick Start — Verify Sovereign Command in < 60 Seconds
@@ -129,7 +127,3 @@ Renewables_Migration_Chapter10_Proof_Engine/
 | **Book Data Export**             | 10.4            | One-click CSV matching Appendix A |
 
 ---
-
-## Technical Integration Philosophy
-
-The codebase mirrors the same engineering standards the book demands of the grid: **modular, sovereign, and verifiable**. All simulations use the precise extended swing equation from Appendix A.9, with ΦMCP damping and the full SCP/SEP frameworks. No external API calls — full data sovereignty by design. Ready for live MCP connectors (Anthropic/Linux Foundation standard) to replace synthetic data with real grid assets.
